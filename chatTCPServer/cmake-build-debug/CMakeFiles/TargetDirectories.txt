@@ -1,0 +1,3 @@
+D:/chatTCPServer/cmake-build-debug/CMakeFiles/chatTCPServer.dir
+D:/chatTCPServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/chatTCPServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

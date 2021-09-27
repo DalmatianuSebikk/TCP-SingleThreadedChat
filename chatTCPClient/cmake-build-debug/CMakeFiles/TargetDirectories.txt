@@ -1,0 +1,3 @@
+D:/chatTCPClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/chatTCPClient/cmake-build-debug/CMakeFiles/chatTCPClient.dir
+D:/chatTCPClient/cmake-build-debug/CMakeFiles/edit_cache.dir
